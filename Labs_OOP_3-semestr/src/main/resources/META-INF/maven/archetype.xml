@@ -1,0 +1,9 @@
+<archetype>
+  <id>Laba1-Labs_OOP_3-semestr</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
